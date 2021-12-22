@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0b724e56efd91e64ebeb61996b2a57d2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerCheckTransform: {instanceID: 0}
+  - floorTile: {fileID: 5581247658644041104, guid: a5ce69364d095524681c09fb06901c68, type: 3}
+  - coin: {fileID: 3430588471761140038, guid: 76a5731886ba2ab4f8d16d28477c49ac, type: 3}
+  - winBlock: {fileID: 5581247658644041104, guid: 5021504ed4daa104abcbd8edc3c5098f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
